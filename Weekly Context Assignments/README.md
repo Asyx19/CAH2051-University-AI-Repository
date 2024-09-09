@@ -8,7 +8,7 @@
 - here is a link that shows more in-depth prompts you can use for AI photo generation along with some formats [Link Here](https://narrato.io/blog/40-ai-image-prompts-to-create-amazing-visuals-effortlessly/)
 - here is a link that shows a few different ways AI can be used to generate money [Linkl Here](https://www.upwork.com/resources/make-money-with-ai)
 - here is  a link that shows a few different ways you can passively generate an income using AI [Link Here](https://www.forbes.com/sites/rachelwells/2024/04/15/5-ways-to-make-money-online-with-ai-in-2024/)
-# Week 2: Choose Two Serious Context Steams
+# Week 2: Choose Two Serious Context Steams & Additional Helpful Links For GitHub
 - here is a link that shows how to create a portfolio on GitHub [Link Here](https://hoffstech.com/2023/03/how-to-create-a-github-portfolio/)
 - here is a link that shows helpful information for developing repositories on GitHub [Link Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)
 - here is a link that shows tricks to have an impressive repository [Link Here](https://dev.to/ruppysuppy/5-tricks-to-create-an-impressive-github-repository-19m6)
