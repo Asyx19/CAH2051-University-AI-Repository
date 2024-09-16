@@ -15,3 +15,9 @@
 - here is a link that shows how to make a folder of images for your repository readme file [Link Here](https://medium.com/@gl7526/making-a-folder-of-images-for-your-github-readme-2c6cd42e1439)
 - here is a link that shows ways I can use GitHub AutoPilot [Link Here](https://github.blog/developer-skills/programming-languages-and-frameworks/10-unexpected-ways-to-use-github-copilot/)
 - here is a link that shows how to kickstart Github AutoPilot [Link Here](https://docs.github.com/en/copilot/quickstart)
+# Week 3: Context Steams & Additional Helpful Links For GitHub
+- here is a link that shows 12 ways to get more stars [Link Here](https://blog.tooljet.com/12-ways-to-get-more-github-stars-for-your-open-source-projects/)
+- here is a link that shows how to increase engagement for my github [Link Here](https://www.freecodecamp.org/news/increase-engagement-on-your-public-github-repositories/) 
+- here is a link that shows ways to use github to impress potential employers [Link Here](https://www.hackerrank.com/blog/what-to-put-on-github/)
+- here is a link that shows what should be included in a github repo [Link Here](https://stackoverflow.com/questions/45967213/what-should-be-included-in-a-git-repo)
+- here is a link that shows how to create a healthy github repo [Link Here](https://joost.blog/healthy-github-repository/) 
