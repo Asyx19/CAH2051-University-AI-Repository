@@ -31,7 +31,7 @@ The alien observed the altered humans with satisfaction. "Excellent. The neural 
 Robotic limbs emerged from the walls, approaching the docile captives. Lily and Jayden remained motionless, their eyes vacant, as the implements began probing and examining them.
 Their normal lives had been erased. Now, they were nothing more than test subjects - unwitting participants in an alien scheme beyond their comprehension. There would be no escape from this waking nightmare.
 
-# Story 3:
+# Story 3: The "Blessed" Twins
 Twins Aria and Brock had always been able to see them - the dark, twisted demons that hovered over people, revealing the true nature of their souls. From a young age, they realized that not everyone possessed this unsettling ability. It was a burden they carried, an unnerving power that set them apart.
 As they grew older, Aria and Brock learned to read the shapes and movements of the demonic entities. The more malevolent a person's alignment, the more monstrous and volatile the demon became. Those with pure, good hearts were accompanied by benevolent, angelic figures. But the wicked ones...their demons were truly nightmarish to behold.
 The twins quickly discovered that their gift came with a dangerous catch. If the demons became aware that Aria or Brock could perceive them, they would attempt to infiltrate the siblings' minds, launching horrific simulations designed to break their will. The more corrupt the person's alignment, the more twisted and terrifying the mental assault.
