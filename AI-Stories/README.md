@@ -53,7 +53,7 @@ The entity let out a howl of anguish as the simulated reality crumbled around it
 In a blinding flash, they found themselves back in the physical world, gasping for breath. The twisted figure above the corrupted man was retreating, its defeat evident in its anguished wail.
 Aria and Brock stood, shaken but triumphant. They had won this battle, but they knew that the fight against the demonic forces was far from over. Their burden, their unsettling gift, had once again proven to be both a blessing and a curse.
 With a renewed sense of purpose, the twins vowed to continue their vigilance, ready to face the horrors of the demonic alignment whenever it threatened to consume the innocent. Their unbreakable bond would be their shield, their guiding light in the darkness to come.
-# -----------------------------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Story 4:The Mysterious Puppy and the Forgotten Treasures
 It was a crisp autumn day when young Liam ventured into the woods near his home. The 10-year-old loved exploring the dense trees and winding paths, eager to uncover the secrets hidden within the natural world.
 As Liam weaved between the towering trunks, a flash of movement caught his eye. To his surprise, a small puppy emerged from the undergrowth - but not just any puppy. Its fur was a vibrant mix of blue and yellow hues, colors Liam had never seen on a dog before.
@@ -157,7 +157,7 @@ As the months passed, Ethan's resilience and perseverance began to shine through
 Eventually, Ethan's story gained national attention, and he was recognized as a hero – a symbol of the triumph of the human spirit over the forces of corruption and evil. With his newfound platform, he dedicated himself to advocating for reforms in the foster care system and supporting organizations that fought against human trafficking.
 Though the scars of his past would never fully heal, Ethan had emerged from the gilded cage a stronger, more resilient individual. He had reclaimed his autonomy, his morality, and his sense of purpose – a testament to the power of the human will to overcome even the darkest of circumstances.
 As Ethan looked towards the future, he knew that the road ahead would not be an easy one, but he was determined to forge a new path – one that would honor the sacrifices he had made and the lives he had saved. The gilded cage may have once held him captive, but now, Ethan was free to pursue his own destiny, guided by the moral compass that had become his true north.
-# -----------------------------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Story 7:
 # Story 8:
 # Story 9:
