@@ -35,10 +35,10 @@
 - here is a link that shows how to integrate AI into everyday tasks [Link Here](https://medium.com/@thomas.lede.21/integrating-ai-into-your-daily-tasks-15d9c88c18d7)
 - here is a link that shows AI tools to streamline daily business tasks [Link Here](https://mdevelopers.com/blog/top-ai-tools-daily-business)
 - here is a link that shows How AI can increase productivity [Link Here](https://niftypm.com/blog/how-ai-can-help-to-increase-productivity/)
-# Week 6:
-- here is a link that shows [Link Here]()
-- here is a link that shows [Link Here]()
-- here is a link that shows [Link Here]()
-- here is a link that shows [Link Here]()
-- here is a link that shows [Link Here]()
-- here is a link that shows [Link Here]()
+# Week 6:Z Context Steams For What Bots I Use
+- here is a link that shows the bot Image_Creators [Link Here](https://poe.com/Image_Creators)
+- here is a link that shows BotA8E [Link Here](https://poe.com/BotA8EXAV3Z55)
+- here is a link that shows the Bot ShortStoryGenerator [Link Here](https://poe.com/ShortStoryGenerator)
+- here is a link that shows github-expert-bot [Link Here](https://poe.com/github-expert-bot)
+- here is a link that shows the AI Bot Claude [Link Here](https://claude.ai/new)
+- here is a link that shows the Bot Playground-v3 [Link Here](https://poe.com/Playground-v3)
