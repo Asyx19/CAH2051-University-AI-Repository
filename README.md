@@ -1,1 +1,1 @@
-# All Things Assingments Related Are Within The Sorted Folders If You Run Into Any Problems Just Tell Me The Folder Name And Issue I'll Get It Fixed ASAP
+# Decided to just reformat my github i've been using for the assignments into a portfolio if you run into any issues, just let me know.
